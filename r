@@ -1,5 +1,5 @@
-http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/ 84060583
-http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/ 93040852
+http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/84060583
+http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/93040852
 http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/00010025
 http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/00010066
 http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/00010088
@@ -6365,7 +6365,7 @@ http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/90030246
 http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/90030290
 http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/90030309
 http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/90030330
-http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/90030398 
+http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/90030398
 http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/90040031
 http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/90040253
 http://e-rohani.ssdm.polri.go.id/admin/registrasi/detail/90040379
